@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Linkedin profile: https://www.linkedin.com/in/kenvegag/
+Codewars profile: https://www.codewars.com/users/kenvegag
