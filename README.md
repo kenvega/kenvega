@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 - LinkedIn profile: https://www.linkedin.com/in/kenvegag/
-- Codewars profile: https://www.codewars.com/users/kenvegag
+- Codewars profile (3kyu): https://www.codewars.com/users/kenvegag
