@@ -1,10 +1,4 @@
 <!-- ## Hi there 👋 -->
-
---- 
-<p><img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenvega&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=PLpgSQL" alt="kenvega" /></p>
-
-<p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=kenvega&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="kenvega" /></p>
-
 <!--
 **kenvega/kenvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
